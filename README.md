@@ -29,9 +29,13 @@ Hi, I’m **AmirMohammad**!
   <a href="https://t.me/xiawmir" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+  <a href="https://discord.gg/C2f4V9Gz" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
 Let’s connect and create something impactful together! 🌟  
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AmirMkh1386&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -44,9 +48,6 @@ Let’s connect and create something impactful together! 🌟
 ---
 [![](https://visitcount.itsvg.in/api?id=AmirMkh1386&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
-
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
