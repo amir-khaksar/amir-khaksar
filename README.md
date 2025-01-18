@@ -29,7 +29,7 @@ Hi, I’m **AmirMohammad**!
   <a href="https://t.me/xiawmir" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%230077B5.svg?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://discord.gg/C2f4V9Gz" target="_blank">
+  <a href="https://discordapp.com/users/awmir.kh" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
