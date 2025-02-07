@@ -14,7 +14,7 @@ Hi, I’m **AmirMohammad**!
 - 📚 Always eager to explore the latest trends in web development and contribute to open-source projects.  
 
 ### 🛠️ Tools & Technologies  
-<p align="center">
+<p>
   <a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>&nbsp;
   <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>&nbsp;
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>&nbsp;
