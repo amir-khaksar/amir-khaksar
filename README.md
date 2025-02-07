@@ -16,7 +16,7 @@ Hi, I’m **AmirMohammad**!
 ### 🛠️ Tools & Technologies  
 <p align="center">
   <a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
-  <a href="https://www.w3.org/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
