@@ -14,8 +14,8 @@ Hi, I’m **AmirMohammad**!
 - 📚 Always eager to explore the latest trends in web development and contribute to open-source projects.  
 
 ### 🛠️ Tools & Technologies  
-<p align="center">
-  <a href="https://www.w3.org/html/" style="margin: 0 20px;"><img src="https://skillicons.dev/icons?i=html" alt="HTML5";"/></a>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
   <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
@@ -24,7 +24,7 @@ Hi, I’m **AmirMohammad**!
   <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" /></a>
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
   <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a>
-</p>
+</div>
 
 ### 📬 Contact Me  
 <p>
