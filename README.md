@@ -14,16 +14,16 @@ Hi, I’m **AmirMohammad**!
 - 📚 Always eager to explore the latest trends in web development and contribute to open-source projects.  
 
 ### 🛠️ Tools & Technologies  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat&logo=redux&logoColor=white" alt="Redux" />
+<p align="center">
+  <a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+  <a href="https://www.w3.org/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a>
 </p>
 
 ### 📬 Contact Me  
