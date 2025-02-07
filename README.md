@@ -15,14 +15,14 @@ Hi, I’m **AmirMohammad**!
 
 ### 🛠️ Tools & Technologies  
 <p align="center">
-  <a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>&nbsp;&nbsp;
-  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" /></a>&nbsp;&nbsp;
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>&nbsp;
+  <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>&nbsp;
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>&nbsp;
+  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>&nbsp;
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" /></a>&nbsp;
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>&nbsp;
   <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a>
 </p>
 
