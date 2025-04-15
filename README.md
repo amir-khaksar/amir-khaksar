@@ -18,13 +18,16 @@ Hi, I’m **AmirMohammad**!
   <a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>&nbsp;
   <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>&nbsp;
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>&nbsp;
-  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>&nbsp;
+  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" /></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>&nbsp;
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>&nbsp;
-  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" /></a>&nbsp;
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>&nbsp;
-  <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a>
+  <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a>&nbsp;
+  <a href="https://tanstack.com/query"><img src="https://skillicons.dev/icons?i=reactquery" alt="React Query" /></a>&nbsp;
+  <a href="https://zustand-demo.pmnd.rs/"><img src="https://skillicons.dev/icons?i=zustand" alt="Zustand" /></a>&nbsp;
 </p>
+
 
 
 ### 📬 Contact Me  
