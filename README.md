@@ -24,6 +24,13 @@ Hi, I’m **AmirMohammad**!
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>&nbsp;
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>&nbsp;
   <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a>&nbsp;
+  <a href="https://zustand-demo.pmnd.rs/">
+  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/logo.svg" alt="Zustand" height="30" />
+</a>
+
+<a href="https://tanstack.com/query">
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/repo-header.png" alt="React Query" height="30" />
+</a>
 </p>
 
 
