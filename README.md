@@ -10,7 +10,6 @@ Hi, I’m **AmirMohammad**!
   - **Tailwind CSS** for crafting responsive, visually appealing designs efficiently.  
 - 🐍 Familiar with **Python** and exploring its applications in automation and backend development.  
 - 🌱 I’m passionate about solving real-world problems with clean, maintainable code.  
-- 🚀 Currently working on exciting projects, including a **charity e-commerce platform** to support children with cancer.  
 - 📚 Always eager to explore the latest trends in web development and contribute to open-source projects.  
 
 ### 🛠️ Tools & Technologies  
