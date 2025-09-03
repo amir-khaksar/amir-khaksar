@@ -39,8 +39,6 @@ Hi, I’m **AmirMohammad**!
 <p>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>&nbsp;
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>&nbsp;
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>&nbsp;
-  <a href="https://www.jetbrains.com/webstorm/"><img src="https://skillicons.dev/icons?i=webstorm" alt="WebStorm" /></a>&nbsp;
   <a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" alt="NPM" /></a>
 </p>  
 
