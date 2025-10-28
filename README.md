@@ -17,7 +17,7 @@ Git · Python · NPM/Yarn · Clean Code Practices · Modular Architecture
 ---
 
 ### 📬 Connect with Me
-[Telegram](https://t.me/xiawmir) · [Discord](https://discordapp.com/users/awmir.kh)
+[Telegram](https://t.me/AmirM_Khaksar) · [Discord](https://discordapp.com/users/awmir.kh)
 
 ---
 
