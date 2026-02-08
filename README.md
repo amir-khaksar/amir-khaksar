@@ -44,6 +44,9 @@ Exploring backend development to become a well-rounded full-stack engineer.
     <a href="https://react.dev/" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="48" />
   </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=next" width="48" />
+  </a>
   <a href="https://redux.js.org/" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=redux" width="48" />
   </a>
@@ -85,25 +88,7 @@ Exploring backend development to become a well-rounded full-stack engineer.
   </a>
 </p>
 
----
 
-### 🎨 Design Skills
-<p>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" width="48" />
-  </a>
-</p>
-
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=amir-khaksar&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-khaksar&layout=compact&theme=transparent&hide_border=true" />
-</p>
 
 ---
 
