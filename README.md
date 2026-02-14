@@ -1,26 +1,11 @@
-<h1 align="center">AmirMohammad Khaksar</h1>
+<!-- <img src /> -->
+
+<h1 align="center">Hi I'm AmirMohammad Khaksar</h1>
 <p align="center">
   Full-Stack Developer • Clean Code Enthusiast • Problem Solver
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmirMohmmadKhaksar&style=flat-square&color=blue" alt="Profile views"/>
-</p>
-
----
-
-## 🚀 About Me
-
-I build clean, scalable, and modern web interfaces with a sharp focus on performance and maintainability.  
-Exploring backend development to become a well-rounded full-stack engineer.
-
-- ⚛️ Frontend specialist: React + TypeScript + Tailwind  
-- 🛠 Experienced in modular architecture and reactive programming  
-- 📦 Managing state with **Zustand**, data fetching with **React Query**  
-- 🧪 Passionate about real-world, production-level apps  
-- 📚 Always learning and leveling up  
-
----
+<div align="center">
+  
 
 ## 🧩 Tech Stack
 
@@ -34,6 +19,9 @@ Exploring backend development to become a well-rounded full-stack engineer.
   </a>
    <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" width="40" />
+  </a>
+   <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" width="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=js" width="40" />
@@ -58,8 +46,6 @@ Exploring backend development to become a well-rounded full-stack engineer.
   </a>
 </p>
 
----
-
 ### ⚙️ Backend
 <p>
   <a href="https://nodejs.org/" target="_blank">
@@ -76,8 +62,6 @@ Exploring backend development to become a well-rounded full-stack engineer.
   </a>
 </p>
 
----
-
 ### 🛠 Tools
 <p>
   <a href="https://www.python.org/" target="_blank">
@@ -88,23 +72,18 @@ Exploring backend development to become a well-rounded full-stack engineer.
   </a>
 </p>
 
-
-
----
-
 ## 📬 Contact
 
-<p align="left">
+<p align="center">
   <a href="https://t.me/AmirM_Khaksar" target="_blank">
     <img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/telegram.svg" width="36" />
   </a>
   <a href="https://t.me/Amirm.khaksar" target="_blank">
     <img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/instagram.svg" width="36" />
-  </a>  
+  </a>
 </p>
-
----
 
 <p align="center">
   <b>“Building with clarity, precision, and purpose.”</b>
 </p>
+</div>
