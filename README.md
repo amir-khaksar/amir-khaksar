@@ -92,6 +92,6 @@
 <p align="center">
   <b>“Building with clarity, precision, and purpose.”</b>
 </p>
-<img src="./image/your_cool_intro.gif" />
 </div>
+<img src="./image/your_cool_intro.gif" width="100%" />
 
