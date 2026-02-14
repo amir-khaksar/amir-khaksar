@@ -1,15 +1,16 @@
-<!-- <img src /> -->
+<img src="./image/pic.png" />
 
 <h1 align="center">Hi I'm AmirMohammad Khaksar</h1>
 <p align="center">
   Full-Stack Developer • Clean Code Enthusiast • Problem Solver
 </p>
 <div align="center">
-  
+
 
 ## 🧩 Tech Stack
 
 ### 🎨 Frontend
+
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html" width="40" />
@@ -47,6 +48,7 @@
 </p>
 
 ### ⚙️ Backend
+
 <p>
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" width="40" />
@@ -63,6 +65,7 @@
 </p>
 
 ### 🛠 Tools
+
 <p>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="40" />
@@ -87,3 +90,5 @@
   <b>“Building with clarity, precision, and purpose.”</b>
 </p>
 </div>
+
+<img src="./image/your_cool_intro.gif" />
