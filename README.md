@@ -1,8 +1,11 @@
-<img src="./image/pic.png" />
 
 <h1 align="center">Hi I'm AmirMohammad Khaksar</h1>
 <p align="center">
   Full-Stack Developer • Clean Code Enthusiast • Problem Solver
+</p>
+
+<p align="center" dir='auto'>
+  <img src="./image/pic.png" width="300" />
 </p>
 <div align="center">
 
@@ -89,6 +92,6 @@
 <p align="center">
   <b>“Building with clarity, precision, and purpose.”</b>
 </p>
+<img src="./image/your_cool_intro.gif" />
 </div>
 
-<img src="./image/your_cool_intro.gif" />
