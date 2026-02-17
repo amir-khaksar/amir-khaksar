@@ -16,37 +16,37 @@
 
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html" width="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html" width="42" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=css" width="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=css" width="42" />
   </a>
    <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" width="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" width="42" />
   </a>
    <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" width="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" width="42" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js" width="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js" width="42" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=ts" width="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ts" width="42" />
   </a>
     <a href="https://react.dev/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="42" />
   </a>
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=next" width="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=next" width="42" />
   </a>
   <a href="https://redux.js.org/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=redux" width="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=redux" width="42" />
   </a>
   <a href="https://tanstack.com/query/latest" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=reactquery" width="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=reactquery" width="42" />
   </a>
   <a href="https://zustand-demo.pmnd.rs/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=zustand" width="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=zustand" width="42" />
   </a>
 </p>
 
@@ -54,16 +54,16 @@
 
 <p>
   <a href="https://nodejs.org/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" width="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" width="42" />
   </a>
   <a href="https://expressjs.com/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=express" width="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=express" width="42" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" width="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" width="42" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" width="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" width="42" />
   </a>
 </p>
 
@@ -71,10 +71,10 @@
 
 <p>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="42" />
   </a>
   <a href="https://www.npmjs.com/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=npm" width="40" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=npm" width="42" />
   </a>
 </p>
 
