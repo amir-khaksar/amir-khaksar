@@ -4,9 +4,7 @@
   Full-Stack Developer • Clean Code Enthusiast • Problem Solver
 </p>
 
-<p align="center" dir='auto'>
-  <img src="./image/pic.png" width="300" />
-</p>
+
 <div align="center">
 
 
