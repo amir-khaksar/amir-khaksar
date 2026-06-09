@@ -83,10 +83,10 @@
 
 <p align="center">
   <a href="https://t.me/AmirM_Khaksar" target="_blank">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/telegram.svg" width="36" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" width="36" />
   </a>
   <a href="https://t.me/Amirm.khaksar" target="_blank">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/instagram.svg" width="36" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" width="36" />
   </a>
 </p>
 
