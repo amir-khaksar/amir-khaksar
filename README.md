@@ -66,6 +66,9 @@
   <a href="http://supabase.com" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" width="42" />
   </a>
+  <a href="http://supabase.com" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" width="42" />
+  </a>
 </p>
 
 ### 🛠 Tools
